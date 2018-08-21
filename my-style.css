@@ -1,0 +1,44 @@
+body{
+    background-color: #000000;
+    padding: 0px 150px 150px 150px;
+}
+
+h1{
+    font-family: 'Poppins', sans-serif;
+    font-size: 50px;
+    font-weight: 900;
+    text-align: center;
+    margin-top: 0;
+    color: #ff1493;
+}
+
+h2{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 300;
+    color: #00ffff;
+}
+
+span{
+    font-style: italic;
+}
+
+article {
+    font-family:'Playfair Display', serif;
+    color: #ffffff;
+    padding: 15px 0px 25px 0px;
+  }
+
+  li {
+    display: inline-block;
+    padding: 0px 5px 0px 5px;
+    text-align: center;
+  }
+
+  nav {
+      text-align: center;
+      margin: 20px 0px 0px 0px;
+  }
+
+  a{
+      color: #ffff00;
+  }
