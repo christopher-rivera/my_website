@@ -44,5 +44,8 @@ article {
   }
 
   .logo img{
-      margin: 5px 275px 10px 275px;
+    display: block;
+    margin: 0px 400px 25px 400px;
+    width: 800px;
+    height: auto;
   }
