@@ -4,18 +4,18 @@ body{
 }
 
 h1{
-    font-family: 'Poppins', sans-serif;
+    font-family: 'Bowlby One SC', cursive;
     font-size: 50px;
     font-weight: 900;
     text-align: center;
     margin-top: 0;
-    color: #ff1493;
+    color: #ed17ff;
 }
 
 h2{
-    font-family: 'Poppins', sans-serif;
-    font-weight: 300;
+    font-family: 'Bowlby One SC', cursive;
     color: #00ffff;
+    font-size: 30px;
 }
 
 span{
@@ -41,4 +41,8 @@ article {
 
   a{
       color: #ffff00;
+  }
+
+  .logo img{
+      margin: 5px 275px 10px 275px;
   }
