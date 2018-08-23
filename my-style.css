@@ -1,9 +1,9 @@
-body{
+body {
     background-color: #000000;
     padding: 0px 150px 150px 150px;
 }
 
-h1{
+h1 {
     font-family: 'Bowlby One SC', cursive;
     font-size: 50px;
     font-weight: 900;
@@ -12,40 +12,51 @@ h1{
     color: #ed17ff;
 }
 
-h2{
+h2 {
     font-family: 'Bowlby One SC', cursive;
     color: #00ffff;
     font-size: 30px;
 }
 
-span{
+span {
     font-style: italic;
 }
 
 article {
     font-family:'Playfair Display', serif;
     color: #ffffff;
-    padding: 15px 0px 25px 0px;
-  }
+    padding: 15px 0px 3px 0px;
+}
 
-  li {
+li {
     display: inline-block;
     padding: 0px 5px 0px 5px;
     text-align: center;
-  }
+}
 
-  nav {
-      text-align: center;
-      margin: 20px 0px 0px 0px;
-  }
+nav {
+    text-align: center;
+    margin: 20px 0px 0px 0px;
+}
 
-  a{
-      color: #ffff00;
-  }
+a {
+    color:#FFFF00;
+}
 
-  .logo img{
+.logo img{
     display: block;
     margin: 0px 400px 25px 400px;
     width: 800px;
     height: auto;
-  }
+}
+
+.social img {
+    width: 40px;
+    height: auto;
+}
+
+.social {
+    display: inline-block;
+    margin: 15px 750px 0px 750px;    
+}
+  
